@@ -1,0 +1,17 @@
+.header{
+    display: flex;
+    padding: 13px 10px;
+    background-color: rgba(37, 120, 120, 0.63);
+    min-width: 50%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    justify-content: center;
+    gap: 10px;
+}.header>input{
+    padding: 2px 2px 2px 5px;
+    font-size: 18px;
+    
+}.header>button{
+    cursor: pointer;
+    padding: 3px;
+}
